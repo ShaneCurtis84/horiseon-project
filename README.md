@@ -10,8 +10,8 @@ The purpose of this project was to update the code to follow accessbility guidel
 
 Site is live on Github Pages https://shanecurtis84.github.io/horiseon-project/#online-reputation-management
 
-   ![alt text](assets/images/screenshot1.png)
+   ![Sceenshot 1](./assets/images/screenshot1.png)
 
-   ![alt text](assets/images/screenshot2.png)
+   ![Screenshot 2](./assets/images/screenshot2.png)
 
-   ![alt text](assets/images/screenshot3.png)
+   ![Screenshot 3](./assets/images/screenshot3.png)
